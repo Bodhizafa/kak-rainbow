@@ -25,7 +25,7 @@ surrounded ones get the previous (wrapping if necessary).
 
 ## Limitations
 Because this is language-agnostic, < and > aren't supported (knowing when to ignore their use as comparisons requires parsing).
-For the same reason, comments are highlited just like anything else. So far this hasn't been an issue
+For the same reason, comments are highlighted just like anything else. So far this hasn't been an issue
 
 ## Similar projects
 These other rainbow highlighters have somewhat different behaviors, and were very helpful in learning how to construct this one.
